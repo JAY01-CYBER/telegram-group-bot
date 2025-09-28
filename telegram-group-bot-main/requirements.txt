@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-telegram-bot==20.7
+jinja2
+passlib[bcrypt]
+itsdangerous
